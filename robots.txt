@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Sitemap: https://Ping6666.github.io/sitemap.xml
